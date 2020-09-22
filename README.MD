@@ -1,5 +1,6 @@
 BFSCoin Core integration/staging tree</br>
 </br>
+=========================================================================
 http://bfscoin.org</br>
 </br>
 About BFSCoin</br>
