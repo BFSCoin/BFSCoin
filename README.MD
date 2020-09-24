@@ -1,4 +1,4 @@
-BFSCoin Core integration/staging tree</br>
+BFSCoin Core integration</br>
 </br>
 =========================================================================
 http://bfscoin.org</br>
